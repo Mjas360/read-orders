@@ -1,0 +1,7 @@
+{
+  "name": "doorsteps",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
